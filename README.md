@@ -6,12 +6,14 @@ A simple python mass downloader
 ==========
 
 
-# REQUIREMENTS
+# Requirements
 
 python ;)
 
-#USAGE
+# Usage
+```
 python downloader.py -p proxies.csv -t targets.csv
+```
 
 # Sample input
 targets.csv
